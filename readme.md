@@ -14,8 +14,8 @@ This project demonstrates an image classification pipeline using a TensorFlow Sa
 1. **Clone the repository**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Cybernaut-Official/teachable-machine-example.git
+   cd teachable-machine-example
    ```
 
 2. **Create a virtual environment**
