@@ -8,6 +8,9 @@ This project demonstrates an image classification pipeline using a TensorFlow Sa
 
 - Python 3.x
 - Virtualenv
+- Before you you going to run the project you have to export your model like shown in the picture below:
+![image](https://github.com/Cybernaut-Official/teachable-machine-example/assets/76400496/13271069-b9d5-4b6d-8156-f9e5bd2470d9)
+
 
 ### Setup
 
